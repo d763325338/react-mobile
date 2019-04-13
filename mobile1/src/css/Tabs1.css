@@ -1,0 +1,17 @@
+.am-search-cancel{
+    color: #fff;
+  }
+.am-grid.am-grid-square .am-grid-item .am-grid-item-inner-content .am-grid-icon{
+    width: 60px !important;
+    height:50px;
+}
+.am-grid {
+    background-color: #fff!important;
+}
+.am-card-header-content{
+    font-size:15px;
+}
+.am-card-header-content img{
+    width:"200px";
+    height:"100px";
+}
